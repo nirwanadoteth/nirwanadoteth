@@ -23,7 +23,7 @@ A passionate developer from Indonesia, currently studying at [Universitas Komput
 
 ## 📊 Statistics
 
-[![Irkham's github stats](https://github-readme-stats.vercel.app/api?username=nirwanadoteth&show_icons=true&theme=tokyonight&bg_color=00000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirwanadoteth&show_icons=true&theme=tokyonight&bg_color=00000000&count_private=true&exclude_repo=kernel_xiaomi_vayu)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nirwanadoteth&custom_title=Github%20Stats&show_icons=true&theme=tokyonight&bg_color=00000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nirwanadoteth&hide_title=false&hide_progress=true&langs_count=10&show_icons=true&theme=tokyonight&bg_color=00000000&count_private=true&exclude_repo=kernel_xiaomi_vayu)](https://github.com/anuraghazra/github-readme-stats)
 
 💬 Feel free to ask me anything!
